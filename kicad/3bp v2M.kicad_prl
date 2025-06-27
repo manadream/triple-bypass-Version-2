@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -36,6 +36,7 @@
       "grid",
       "footprints_front",
       "footprints_back",
+      "footprint_values",
       "footprint_references",
       "tracks",
       "drc_errors",
@@ -48,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_00000025",
+    "visible_layers": "ffffffff_ffffffff_fffffff5_5757ffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -57,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "3bp v2.1.kicad_prl",
+    "filename": "3bp v2M.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -95,7 +96,7 @@
       100,
       77,
       100,
-      981
+      674
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
